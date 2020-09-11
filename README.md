@@ -1,7 +1,7 @@
 # Algorithm
 
 ## BOJ
-	- https://www.acmicpc.net/
+	https://www.acmicpc.net/
 
 ## Programmers
-	- https://programmers.co.kr/
+	https://programmers.co.kr/
