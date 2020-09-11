@@ -1,7 +1,9 @@
 # Algorithm
 
 ## BOJ
-	https://www.acmicpc.net/
+- name : rlqjarhrh
+- https://www.acmicpc.net/
 
 ## Programmers
-	https://programmers.co.kr/
+- name : gibeom kim
+- https://programmers.co.kr/
