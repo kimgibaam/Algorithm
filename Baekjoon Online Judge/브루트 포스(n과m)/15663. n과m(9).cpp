@@ -11,6 +11,7 @@ vector<int> v;
 vector<int> picked;
 map<int, int> m;
 
+// 중복입력, 중복선택 불가 순열
 void solve(int cnt) {
 	if (cnt == M) {
 		for (int i = 0; i < M; i++) {
